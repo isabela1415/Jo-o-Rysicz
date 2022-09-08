@@ -1,2 +1,13 @@
 body {
-background: #DEB887;}
+background: #DEB887;
+}
+ h1 {
+ 	    font-size: 70px;
+ 	    text-align: center;
+ 	    color: #8B4513;
+}
+
+#capa {
+	height: 5px;
+	width: 98px;
+}
