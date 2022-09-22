@@ -1,13 +1,10 @@
 body {
-background: #DEB887;
-}
- h1 {
- 	    font-size: 70px;
- 	    text-align: center;
- 	    color: #8B4513;
+background: #FFDEAD;}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    color:#CD5C5C;
+    font-weight: bold;
 }
 
-#capa {
-	height: 5px;
-	width: 98px;
-}

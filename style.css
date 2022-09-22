@@ -1,0 +1,17 @@
+body {
+    background: #cccccc 
+}
+p{
+  text-align: center
+}
+em strong{
+    color: #BD12B8 
+}
+
+#capa {
+    height: 5%;
+    width: 98%;
+    padding: 10px;
+    margin-left: 1px;
+    border:  solid #000000;
+}
